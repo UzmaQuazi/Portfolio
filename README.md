@@ -3,7 +3,7 @@ title: Quazi's Portfolio
 layout: default
 ---
 
-<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 
 <div class="container">
 Hey! I'm Uzma
